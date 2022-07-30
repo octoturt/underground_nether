@@ -7,5 +7,5 @@ This is an (unfinished) attempt at getting full nether generation working underg
 - [ ] World generation goes to essentially the top of the world
 - [ ] Entire world is generated like the nether, creating very interesting but nevertheless unintended terrain
 - [ ] Only nether biome implemented is Nether Wastes
-- [ ] Nether area is not exclusively nether biomes, leading to incorrect mob spawns and generation of structures and mobs.
+- [ ] Nether area is not exclusively nether biomes, leading to incorrect mob spawns and structure/ore generation.
 - [ ] The ocean is missing
